@@ -41,7 +41,6 @@ A developer built on the Linux kernel. Currently bootstrapping on localhost, gri
 | Repo | Description | Status |
 |------|-------------|--------|
 | `portfolio` | This very portfolio — matrix-themed | Live |
-| `car-importer` | Vehicle data import pipeline | 85% |
 | `car-importer-v2` | Next-gen import system | 40% |
 
 ---
