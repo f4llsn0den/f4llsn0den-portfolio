@@ -1,73 +1,96 @@
-# 👾 f4llsn0den
+# 👾 f4llsn0den — Portfolio
+
+> _"The Matrix is everywhere. It is all around us."_ — Morpheus
 
 ```
-██████╗ ██╗  ██╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███╗   ███╗
-██╔══██╗██║  ██║██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗████╗ ████║
-██████╔╝███████║███████║██╔██╗ ██║   ██║   ██║   ██║██╔████╔██║
-██╔═══╝ ██╔══██║██╔══██║██║╚██╗██║   ██║   ██║   ██║██║╚██╔╝██║
-██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
+ ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███╗   ███╗
+ ██╔══██╗██║  ██║██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗████╗ ████║
+ ██████╔╝███████║███████║██╔██╗ ██║   ██║   ██║   ██║██╔████╔██║
+ ██╔═══╝ ██╔══██║██╔══██║██║╚██╗██║   ██║   ██║   ██║██║╚██╔╝██║
+ ██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
+ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
 ```
 
-> _"The Matrix is everywhere. It is all around us." — Morpheus_
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online-00ff00?style=for-the-badge&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Language-Code-00ff00?style=for-the-badge&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Motto-Enter%20the%20Matrix-00ff00?style=for-the-badge&labelColor=0d0d0d" />
+</p>
 
 ---
 
-## ⚡ Who Am I
+## 🟢 About Me
 
-**Status:** ONLINE
-**Location:** localhost — awaiting deployment
-**Role:** Software Developer — open to opportunities
-**Stack:** Python, JavaScript, TypeScript, Bash, SQL, React, Node.js, Linux
+```
+NAME     : f4llsn0den
+ROLE     : Software Developer
+LOCATION : localhost (currently available for hire)
+STATUS   : ██████████ 100% ACTIVE
+```
 
-A developer built on the Linux kernel. Currently bootstrapping on localhost, grinding skills, and preparing for production.
+> Zero knowledge of the system. Full knowledge of what can be built within it.
 
----
-
-## 🛠️ Stack
-
-| Domain | Technologies |
-|--------|-------------|
-| **Languages** | Python, JavaScript, TypeScript, Bash, SQL |
-| **Frontend** | React, Next.js, HTML5, CSS3 |
-| **Backend** | Node.js, Flask, PostgreSQL |
-| **DevOps** | Git, Docker, Linux, CI/CD |
-| **Tools** | Zo Computer, AI-assisted development |
+I write code like I hack the Matrix — clean, purposeful, and always finding the backdoor. Currently diving deep into open-source and building things that matter.
 
 ---
 
-## 📂 Projects
+## 🛠️ Tech Stack
 
-| Repo | Description | Status |
-|------|-------------|--------|
-| `portfolio` | This very portfolio — matrix-themed | Live |
-| `car-importer-v2` | Next-gen import system | 40% |
+```
+LANGUAGES    Python · JavaScript · TypeScript · Bash · C
+FRAMEWORKS   React · Node.js · Hono · FastAPI
+TOOLS        Git · Docker · Linux · GitHub Actions · Zo Computer
+DATABASES    PostgreSQL · DuckDB · SQLite
+CLOUD        Self-hosted · Personal cloud infra
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=f4llsn0den&show_icons=true&theme=matrix&labelColor=0d0d0d&text_color=00ff00&bg_color=0d0d0d" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4llsn0den&layout=compact&theme=matrix&labelColor=0d0d0d&text_color=00ff00&bg_color=0d0d0d" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### [car-importer](./car-importer)
+```
+STATUS  : ████████░░ 80%
+STACK   : Python · Auto-trading logic
+DESC    : Automated vehicle import pipeline
+```
+
+### [car-importer-v2](./car-importer-v2)
+```
+STATUS  : ████░░░░░░ 40%
+STACK   : Python · Refactored architecture
+DESC    : Next-gen car importer with cleaner design
+```
 
 ---
 
 ## 🌐 Connect
 
+<p align="center">
+  <a href="https://x.com/f4llsn0den">
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=00ff00" />
+  </a>
+  <a href="https://github.com/f4llsn0den">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00ff00" />
+  </a>
+</p>
+
 ```
-GitHub:  https://github.com/f4llsn0den
-X:       https://x.com/f4llsn0den
-Email:   f4llsn0den@gmail.com
-Zo:      https://f4llsn0den.zo.computer
-```
-
----
-
-```
-░▒▓█ SYSTEM REPORT █▓▒░
-
-  Host......: f4llsn0den
-  OS........: READY FOR DEPLOYMENT
-  Status....: AVAILABLE FOR HIRE
-  Location..: Europe/Amsterdam
-  Remote....: Yes
-
-  [████████████████████] 100% OPERATIONAL
-
-░▒▓ END REPORT █▓▒░
+┌─────────────────────────────────────────────┐
+│  "There is no spoon."                        │
+│  — Only code.                                │
+└─────────────────────────────────────────────┘
 ```
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Last%20Updated-March%202026-00ff00?style=flat&labelColor=0d0d0d" />
+</p>
